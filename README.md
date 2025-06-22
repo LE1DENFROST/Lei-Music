@@ -35,13 +35,9 @@
 
 ## 📸 Gallery
 
-| Discover Page | Player & Playlist View |
-| :---: | :---: |
-| <!-- EKRAN GÖRÜNTÜSÜ URL'Sİ BURAYA --> | <!-- EKRAN GÖRÜNTÜSÜ URL'Sİ BURAYA --> |
-
-| Dynamic "Aura" Artist Panel | Settings & Theming |
-| :---: | :---: |
-| <!-- EKRAN GÖRÜNTÜSÜ URL'Sİ BURAYA --> | <!-- EKRAN GÖRÜNTÜSÜ URL'Sİ BURAYA --> |
+| Discover Page & Player | Dynamic "Aura" Artist Panel |
+| :----------------------: | :---------------------------: |
+| <img src="https://i.imgur.com/vHqJ9Jk.png" alt="Discover Page and Player" width="400"> | <img src="https://i.imgur.com/KzXG5W2.png" alt="Aura Panel" width="400"> |
 
 ## 🛠️ Tech Stack
 
