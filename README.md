@@ -35,9 +35,10 @@
 
 ## 📸 Gallery
 
-| Discover Page & Player | Dynamic "Aura" Artist Panel |
-| :----------------------: | :---------------------------: |
-| <img src="https://i.imgur.com/vHqJ9Jk.png" alt="Discover Page and Player" width="400"> | <img src="https://i.imgur.com/KzXG5W2.png" alt="Aura Panel" width="400"> |
+| Discover Page | Dynamic "Aura" Artist Panel |
+| :-------------: | :---------------------------: |
+| <img src="https://i.imgur.com/pYhbI8I.png" alt="Discover Page" width="400"> | <img src="https://i.imgur.com/rYDUObW.png" alt="Aura Panel" width="400"> |
+
 
 ## 🛠️ Tech Stack
 
