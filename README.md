@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/y4qnQQr.png" alt="Lei-Music Banner" width="400"/>
+  <img src="https://i.imgur.com/y4qnQQr.png" alt="Lei-Music Banner" width="200"/>
 </p>
 
 <p align="center">
