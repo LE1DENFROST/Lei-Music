@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://i.imgur.com/y4qnQQr.png" alt="Lei-Music Banner" width="200"/>
+  <img src="https://i.imgur.com/y4qnQQr.png" alt="Lei-Music Banner" width="300"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LEIDENFROST/Lei-Music/stargazers"><img src="https://img.shields.io/github/stars/LEIDENFROST/Lei-Music?style=for-the-badge&color=c955e8&logo=github" alt="Stars"></a>
-  <a href="https://github.com/LEIDENFROST/Lei-Music/network/members"><img src="https://img.shields.io/github/forks/LEIDENFROST/Lei-Music?style=for-the-badge&color=81a1c1&logo=github" alt="Forks"></a>
+  <a href="https://github.com/LE1DENFROST/Lei-Music/stargazers"><img src="https://img.shields.io/github/stars/LE1DENFROST/Lei-Music?style=for-the-badge&color=c955e8&logo=github" alt="Stars"></a>
+  <a href="https://github.com/LE1DENFROST/Lei-Music/network/members"><img src="https://img.shields.io/github/forks/LE1DENFROST/Lei-Music?style=for-the-badge&color=81a1c1&logo=github" alt="Forks"></a>
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
-  <a href="https://github.com/LEIDENFROST/Lei-Music/blob/main/LICENSE"><img src="https://img.shields.io/github/license/LEIDENFROST/Lei-Music?style=for-the-badge&color=a3be8c" alt="License"></a>
+  <a href="https://github.com/LE1DENFROST/Lei-Music/blob/main/LICENSE"><img src="https://img.shields.io/github/license/LE1DENFROST/Lei-Music?style=for-the-badge&color=a3be8c" alt="License"></a>
 </p>
 
 <p align="center">
